@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @avimalhotra
-- 👀 I’m interested in Fullstack JavaScript Development.
-- 🌱 I’m currently working at Tech Altum (10+ exp)
-- 💞️ I’m looking to collaborate on Corporate Trainings
-- 📫 reach me at my linkedin page
+- 👋 Hi, I’m @avimalhotra, IIT KGP Alumni and Fullstart JS Developer. 
+- 👀 I’m interested in Teaching and Corporate Training from last 10 Years.
+- 🌱 I’m the Director of Tech Altum.
+- 💞️ I’m looking to collaborate on Corporate Trainings.
+- 📫 reach me at avimalhotra[at]techaltum.com
 
 <!---
 avimalhotra/avimalhotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
