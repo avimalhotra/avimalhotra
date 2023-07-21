@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @avimalhotra, IIT KGP Alumni and Fullstack JS Developer. 
-- 👀 I’m interested in Teaching and Corporate Training from last 10 Year, and have trained 5000+ candidates.
-- 🌱 I’m the Director of Tech Altum.
+- 👋 Hi, I’m @avimalhotra, IIT KGP Alumni and FullStack JS Developer. 
+- 👀 Interested in Teaching and Corporate Training from last 11 Year, and have trained 5000+ candidates.
+- 🌱 I’m the Managing Director of Tech Altum, ISO Certified and MSME Registered Tarining Institute in Noida.
 - 💞️ I’m looking to collaborate on Corporate Trainings.
 - 📫 reach me at avimalhotra[at]techaltum.com
 
