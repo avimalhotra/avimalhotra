@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Corporate Trainings.
 - 📫 reach me at avimalhotra[at]techaltum.com
 - 🔗 My Linkedin Profile: https://www.linkedin.com/in/avimalhotra
+- 🔗 My Online Tutorial https://tutorial.techaltum.com
 - 🔗 My Website https://avinashmalhotra.com
 
 <!---
