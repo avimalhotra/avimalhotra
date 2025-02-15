@@ -7,7 +7,7 @@ My area of expertise are
 - Node JS, Express JS, Mongo DB
 - Angular and Typescript
 
-![Profile views](https://www.linkedin.com/in/avimalhotra/)
+https://www.linkedin.com/in/avimalhotra
 
 ---
 
