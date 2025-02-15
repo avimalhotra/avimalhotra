@@ -3,7 +3,7 @@
 - 🌱 I’m the CEO of Tech Altum, ISO Certified and MSME Registered Training Institute in Noida, India since 2012.
 - 💞️ I’m looking to collaborate on Corporate Trainings, Classroom and Online Trainings.
 - 📫 Reach me at avimalhotra[at]techaltum.com
-- 📞 Book Free Demo class and Career Counselling at 9015041412, 01204280181
+- 📞 Book Free Demo class and Career Counseling at 9015041412, 01204280181
 - 🔗 My Linkedin Profile: https://www.linkedin.com/in/avimalhotra
 - 🔗 My Online Tutorial https://tutorial.techaltum.com
 - 🔗 My Website https://avinashmalhotra.com
