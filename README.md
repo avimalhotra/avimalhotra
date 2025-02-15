@@ -14,7 +14,7 @@ https://www.linkedin.com/in/avimalhotra
 ### 📫 How to reach me:
 
 - **Email**: [avimalhotra@techaltum.com](mailto:avimalhotra@techaltum.com)
-- **LinkedIn**: [Avi Malhotra](https://www.linkedin.com/in/avimalhotra/)
+- **LinkedIn**: [avimalhotra](https://www.linkedin.com/in/avimalhotra/)
 - **Website**: [avinashmalhotra.com](https://www.avinashmalhotra.com)
 
 ### 🌱 Currently Learning:
