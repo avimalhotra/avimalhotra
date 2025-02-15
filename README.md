@@ -1,9 +1,9 @@
-- 👋 Hello, I am @avimalhotra, an IIT Kharagpur alumnus and full-stack JavaScript Teacher. 
-- 👀 Interested in Teaching and Corporate Training. Teaching from last 12 Year and trained 6000+ candidates.
+- 👋 Hello, I am @avimalhotra, an IIT Kharagpur alumnus and Full Stack JavaScript Teacher. 
+- 👀 Interested in Teaching and Corporate Training. Teaching since last 13+ Years and trained 6000+ candidates.
 - 🌱 I’m the CEO of Tech Altum, ISO Certified and MSME Registered Training Institute in Noida, India since 2012.
 - 💞️ I’m looking to collaborate on Corporate Trainings, Classroom and Online Trainings.
 - 📫 Reach me at avimalhotra[at]techaltum.com
-- 📞 Book Free Demo class and Counselling at 9015041412, 01204280181
+- 📞 Book Free Demo class and Career Counselling at 9015041412, 01204280181
 - 🔗 My Linkedin Profile: https://www.linkedin.com/in/avimalhotra
 - 🔗 My Online Tutorial https://tutorial.techaltum.com
 - 🔗 My Website https://avinashmalhotra.com
