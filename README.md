@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Avi Malhotra!
 
 Welcome to my GitHub profile! I'm a passionate Full Stack developer and technology enthusiast with a keen interest in open-source contributions.
+
 I am an Alumnus of IIT Kharagpur havng 13+ years of experience in Training Frontend and Full Stack.
 
 My area of expertise are 
