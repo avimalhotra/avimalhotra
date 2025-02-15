@@ -1,15 +1,63 @@
-- 👋 Hello, I am @avimalhotra, an IIT Kharagpur alumnus and Full Stack JavaScript Teacher. 
-- 👀 Interested in Teaching and Corporate Training. Teaching since last 13+ Years and trained 6000+ candidates.
-- 🌱 I’m the CEO of Tech Altum, ISO Certified and MSME Registered Training Institute in Noida, India since 2012.
-- 💞️ I’m looking to collaborate on Corporate Trainings, Classroom and Online Trainings.
-- 📫 Reach me at avimalhotra[at]techaltum.com
-- 📞 Book Free Demo class and Career Counseling at 9015041412, 01204280181
-- 🔗 My Linkedin Profile: https://www.linkedin.com/in/avimalhotra
-- 🔗 My Online Tutorial https://tutorial.techaltum.com
-- 🔗 My Website https://avinashmalhotra.com
-- 🔗 My Youtube https://www.youtube.com/c/techaltumtutorial
+### Hi there 👋, I'm Avi Malhotra!
 
-<!---
-avimalhotra/avimalhotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate Full Stack developer and technology enthusiast with a keen interest in open-source contributions.
+I am an Alumnus of IIT Kharagpur havng 13+ years of experience in Training Frontend and Full Stack.
+My area of expertise are 
+- HTML5, CSS, Advance JavaScript, jQuery, Bootstrap, Sass
+- Node JS, Express JS, Mongo DB
+- Angular and Typescript
+
+![Profile views](https://www.linkedin.com/in/avimalhotra/)
+
+---
+
+### 📫 How to reach me:
+
+- **Email**: [avimalhotra@techaltum.com](mailto:avimalhotra@techaltum.com)
+- **LinkedIn**: [Avi Malhotra](https://www.linkedin.com/in/avimalhotra/)
+- **Website**: [avinashmalhotra.com](https://www.avinashmalhotra.com)
+
+### 🌱 Currently Learning:
+
+- Advanced AI and Machine Learning techniques
+- Cloud Computing with AWS and Azure
+- Microservices architecture on Node
+
+### 👨‍💻 Technologies & Tools:
+
+- **Languages**: JavaScript, TypeScript
+- **Web Development**: Angular, Node.js, Express.js, HTML, CSS
+- **Databases**:  MongoDB, 
+- **DevOps**: AWS
+- **Others**: Git, REST APIs
+
+
+### 📈 GitHub Stats:
+
+![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=avimalhotra&show_icons=true&theme=radical)
+
+### 🏆 Top Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avimalhotra&layout=compact&theme=radical)
+
+### 💬 Ask me about:
+
+- Frontend Development
+- Full Stack Development
+- Advance JavaScript
+- Node JS
+- Angular
+- jQuery
+- Bootstrap
+
+### ⚡ Fun fact:
+
+- I love cars and gadgets
+- I'm a big fan of books.
+- I am spritual
+
+---
+
+Let's connect and collaborate on exciting projects! Feel free to reach out to me via any of the platforms mentioned above.
+
+Happy coding! 😊
