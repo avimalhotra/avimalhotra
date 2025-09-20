@@ -8,6 +8,7 @@ My area of expertise are
 - HTML5, CSS, Advance JavaScript, jQuery, Bootstrap, Sass
 - Node JS, Express JS, Mongo DB
 - Angular and Typescript
+- React and Next.js
 
 https://www.linkedin.com/in/avimalhotra
 
@@ -28,9 +29,9 @@ https://www.linkedin.com/in/avimalhotra
 ### 👨‍💻 Technologies & Tools:
 
 - **Languages**: JavaScript, TypeScript
-- **Web Development**: Angular, Node.js, Express.js, HTML, CSS
-- **Databases**:  MongoDB, 
-- **DevOps**: AWS
+- **Web Development**: Angular, React, Node.js, Express.js, HTML, CSS
+- **Databases**:  MongoDB, Postgresql
+- **DevOps**: AWS, Azure
 - **Others**: Git, REST APIs
 
 
@@ -49,6 +50,7 @@ https://www.linkedin.com/in/avimalhotra
 - Advance JavaScript
 - Node JS
 - Angular
+- React
 - jQuery
 - Bootstrap
 
