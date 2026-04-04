@@ -46,19 +46,20 @@ https://www.linkedin.com/in/avimalhotra
 ### 💬 Ask me about:
 
 - Frontend Development
-- Full Stack Development
+- Full Stack JavaScript Development
 - Advance JavaScript
 - Node JS
 - Angular
-- React
+- React & Next.js
 - jQuery
 - Bootstrap
+- Sass
 
 ### ⚡ Fun fact:
 
 - I love cars and gadgets
 - I'm a big fan of books.
-- I am spritual
+- I am spritual too
 
 ---
 
