@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Avi Malhotra!
 
-> **Full Stack Developer | Tech Mentor | Open Source Enthusiast**
+> **Full Stack JavaScript Developer | Tech Mentor | Open Source Enthusiast**
 > 
 > Building scalable web applications and empowering developers through training & mentorship
 
