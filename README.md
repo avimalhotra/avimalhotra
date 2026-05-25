@@ -10,7 +10,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack developer** and technology enthusiast with a keen interest in open-source contributions.
 
-I am an Alumnus of **IIT Kharagpur** with **14+ years of experience** in training and developing **Frontend** and **Full Stack** applications. Throughout my career, I've trained **500+ developers** and built numerous production-grade applications.
+I am an Alumnus of **IIT Kharagpur** with **14+ years of experience** in training and developing **Frontend** and **Full Stack** applications. Throughout my career, I've trained **7000+ developers** and built numerous production-grade applications.
 
 ---
 
